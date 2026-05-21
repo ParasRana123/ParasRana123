@@ -1,12 +1,26 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=580&lines=Working+with+WebRTC+%F0%9F%94%B5;Full+Stack+%26+Backend+Engineer+%F0%9F%9A%80;Machine+Learning+%26+Gen+AI+Builder+%F0%9F%A4%96)](https://git.io/typing-svg)
+<h3>Hey 👋, I'm Paras Rana</h3>
 
-<br/>
+<p>
+  Full-stack & backend developer &nbsp;•&nbsp;
+  Competitive programmer &nbsp;•&nbsp;
+  ML & Gen AI builder
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=parasrana123&label=Profile+Views&color=00d9ff&style=flat-square&labelColor=0d1117" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/parasrana123?label=Followers&style=flat-square&color=00d9ff&labelColor=0d1117" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/paras-rana-696b7731b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/paras579/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/paras579">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=parasrana123&label=Profile+Views&color=00d9ff&style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/parasrana123?label=Followers&style=flat-square&color=00d9ff&labelColor=0d1117" />
+</p>
 
 </div>
 
@@ -16,7 +30,8 @@
 
 > Competitive Programmer turned Full Stack & ML Engineer — I love solving hard algorithmic problems as much as I love building real-world systems.
 
-- 🔭 **Currently** building scalable backends & Gen AI systems
+- 🎓 B.Tech CSE @ IIIT Nagpur — Expected June 2027
+- 🔭 **Currently** - Working with WebRTC and Web3
 - 💬 **Languages** — C++, Python, JavaScript, TypeScript
 - ⚡ **Fun Fact** — I debug with print statements and I'm proud of it
 
@@ -72,13 +87,7 @@
 | Platform | Handle | Rank | Rating |
 |:---:|:---:|:---:|:---:|
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/paras579/) | paras579 | 🔵 Guardian | **2161** |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/paras579) | paras579 | ⭐⭐⭐ 3-Star | **1750** |
-
-<br/>
-
-<a href="https://leetcode.com/u/paras579/">
-  <img src="https://leetcard.jacoblin.cool/paras579?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=12&width=480" alt="LeetCode Stats" />
-</a>
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/paras579) | paras579 | 3-Star | **1750** |
 
 </div>
 
@@ -109,27 +118,5 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=parasrana123&theme=radical&column=7&margin-w=6&margin-h=6&no-bg=true&no-frame=true" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parasrana123)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/paras579/)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/paras579)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parasrana123)
-
-<br/>
-
-*Always learning. Always building. Always competing.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=80&section=footer" />
 
 </div>
