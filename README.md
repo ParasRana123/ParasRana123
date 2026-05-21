@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=180&section=header&text=Paras%20Rana&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20ML%20%26%20Gen%20AI%20%E2%80%A2%20Competitive%20Programmer&descAlignY=60&descSize=16&animation=fadeIn" />
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=580&lines=Working+with+WebRTC+%F0%9F%94%B5;Full+Stack+%26+Backend+Engineer+%F0%9F%9A%80;Machine+Learning+%26+Gen+AI+Builder+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <br/>
