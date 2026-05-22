@@ -1,10 +1,10 @@
 <div align="center">
 
-<h3>Hey 👋, I'm Paras Rana</h3>
+<h2>Hey 👋, I'm Paras Rana</h2>
 
 <p>
-  Full-stack & backend developer &nbsp;•&nbsp;
   Competitive programmer &nbsp;•&nbsp;
+  Full-stack & backend developer &nbsp;•&nbsp;
   ML & Gen AI builder
 </p>
 
@@ -63,6 +63,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **ML / AI**
 
