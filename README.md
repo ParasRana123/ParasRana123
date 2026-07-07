@@ -2,11 +2,11 @@
 
 <h2>Hey 👋, I'm Paras Rana</h2>
 
-<p>
+<h3>
   Competitive programmer &nbsp;•&nbsp;
   Full-stack & backend developer &nbsp;•&nbsp;
   ML & Gen AI builder
-</p>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paras-rana-696b7731b/">
@@ -18,8 +18,10 @@
   <a href="https://www.codechef.com/users/paras579">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
+  <a href="https://www.hackerrank.com/profile/parasrana579">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=parasrana123&label=Profile+Views&color=00d9ff&style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/parasrana123?label=Followers&style=flat-square&color=00d9ff&labelColor=0d1117" />
 </p>
 
 </div>
@@ -30,10 +32,10 @@
 
 > Competitive Programmer turned Full Stack & ML Engineer — I love solving hard algorithmic problems as much as I love building real-world systems.
 
-- 🎓 B.Tech CSE @ IIIT Nagpur — Expected June 2027
+- 🎓 B.Tech CSE @ IIIT Nagpur - Expected June 2027
 - 🔭 **Currently** - Working with WebRTC and Web3
-- 💬 **Languages** — C++, Python, JavaScript, TypeScript
-- ⚡ **Fun Fact** — I debug with print statements and I'm proud of it
+- 💬 **Languages** - C++, Python, JavaScript, TypeScript
+- ⚡ **Fun Fact** - I debug with print statements and I'm proud of it
 
 ---
 
@@ -98,26 +100,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parasrana123&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=parasrana123&show_icons=true&theme=radical&border_radius=10&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasrana123&layout=compact&theme=radical&border_radius=10&langs_count=8&hide_border=true" height="170"/>
 
-<br/>
+<br/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasrana123&theme=radical&border_radius=10&hide_border=true" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parasrana123&theme=react-dark&radius=10&hide_border=true&area=true" width="92%"/>
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=parasrana123&theme=radical&column=7&margin-w=6&margin-h=6&no-bg=true&no-frame=true" />
 
 </div>
