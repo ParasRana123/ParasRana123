@@ -31,7 +31,7 @@
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=gajffrowlgj5dm0ow8ewnn2z8&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"
       alt="Spotify Now Playing"
-      style="width:225px;"
+      style="width:240px;"
     />
   </a>
 </div>
