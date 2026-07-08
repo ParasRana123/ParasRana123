@@ -24,6 +24,15 @@
   <img src="https://komarev.com/ghpvc/?username=parasrana123&label=Profile+Views&color=00d9ff&style=flat-square&labelColor=0d1117" />
 </p>
 
+<br />
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gajffrowlgj5dm0ow8ewnn2z8&redirect=true">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=gajffrowlgj5dm0ow8ewnn2z8&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"
+    width="420"
+  />
+</a>
+
 </div>
 
 ---
